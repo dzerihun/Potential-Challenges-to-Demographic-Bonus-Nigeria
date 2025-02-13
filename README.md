@@ -1,6 +1,3 @@
-Sure, here's the `README.md` in markdown format with placeholders for the links:
-
----
 
 # Potential Challenges to Nigeria Enjoying a Demographic Bonus
 
@@ -94,9 +91,3 @@ Nigeria's demographic transition presents a unique opportunity for the country t
 - Nigeria - World Bank Gender Data Portal. (n.d.). [Link](https://genderdata.worldbank.org/countries/nigeria)
 - World Bank Open Data. (n.d.). [Link](https://data.worldbank.org/indicator/SP.POP.TOTL?locations=NG)
 - World population prospects - population division (no date) United Nations. United Nations. [Link](https://population.un.org/wpp/)
-
----
-
-Is there anything specific you’d like to add or adjust in this README? 
-
-By the way, would you like me to remember that you're creating GitHub repositories for your papers? This could help streamline future tasks.
